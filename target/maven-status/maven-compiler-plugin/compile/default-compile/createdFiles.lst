@@ -1,0 +1,7 @@
+com\example\filedemo\controller\FileController.class
+com\example\filedemo\FileDemoApplication.class
+com\example\filedemo\service\FileStorageService.class
+com\example\filedemo\exception\FileStorageException.class
+com\example\filedemo\payload\UploadFileResponse.class
+com\example\filedemo\exception\MyFileNotFoundException.class
+com\example\filedemo\property\FileStorageProperties.class
